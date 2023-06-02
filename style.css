@@ -562,7 +562,7 @@ footer .post-list li em {
 
 .navbar-brand {
     padding: 0;
-    padding-top: 27px;
+    padding-top: 15px;
 }
 
 .navbar-brand img {
@@ -573,7 +573,7 @@ footer .post-list li em {
     transition: all 0.3s;
     -webkit-transform: translateZ();
     image-rendering: -webkit-optimize-contrast;
-    height: 25px;
+    height: 55px;
     width: inherit;
 }
 
